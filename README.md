@@ -11,6 +11,8 @@ You can then work with yrange using yrange (max, min = None).
 
 example:
 ```
+from yrange import yrange
+
 for i in yrange(10000,1):
   print(i)
 ```
